@@ -1,4 +1,4 @@
-[comment]: # (-*- mode: markdown -*-)
+[comment]: # (-*- mode: markdown -*-)  
 
 # ansiesc-colors
 
@@ -9,7 +9,9 @@ Some functions and examples to use ANSI escape codes to color the output in Pyth
 this is  a simple package  (and obviously not  perfect) that implements the  use of ANSI  Escape Codes to  print colored
 strings to the console
 
-[comment]: # ([Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)) 
+[comment]: # ([Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/))  
+[//]: # ([Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/))  
+[//]: # (This is a comment on a new line.)  
 
 After installing the  package in the ways, I  think well known, the imports  sufficient to perform a first  test are the
 following:
