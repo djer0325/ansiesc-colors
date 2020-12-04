@@ -4,8 +4,6 @@
 
 Some functions and examples to use ANSI escape codes to color the output in Python
 
-Some functions and examples to use ANSI escape codes to color the output in Python
-
 this is  a simple package  (and obviously not  perfect) that implements the  use of ANSI  Escape Codes to  print colored
 strings to the console
 
