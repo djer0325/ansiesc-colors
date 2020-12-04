@@ -12,6 +12,7 @@ strings to the console
 [comment]: # ([Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/))  
 [//]: # ([Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/))  
 [//]: # (This is a comment on a new line.)  
+<!-- This is a comment on a new line. -->
 
 After installing the  package in the ways, I  think well known, the imports  sufficient to perform a first  test are the
 following:
